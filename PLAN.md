@@ -10,7 +10,10 @@
 > | E · fabrika + run.py | ✅ 6 rota kayıtlı |
 > | F · uçtan uca test | ✅ 6 testin hepsi geçti |
 > | G · Wix kodu | ✅ yazıldı — editörde ID'leri verip yapıştırman kaldı |
-> | H · GitHub + Render | ⬜ `render.yaml` hazır, deploy bekliyor |
+> | H · GitHub + Render | ✅ repo push edildi, servis kuruldu |
+>
+> **Canlı:** https://smartlead-ai-sbly.onrender.com
+> **Repo:** https://github.com/FeeFiFoFumM/smartlead-ai
 >
 > **Eksik iki değer:** `.env` içinde `GROQ_API_KEY` (hâlâ placeholder) ve
 > `CORS_ORIGINS` (hâlâ `*`). İkisi girilene kadar sohbet demo modunda çalışır.
@@ -32,8 +35,8 @@ o noktayı geçtiğini kanıtlayan **test komutu**.
 | 3 | Klasör iskeleti hazır | ✅ |
 | 4 | venv aktif, `pip install` hatasız | ✅ 5 paket |
 | 5 | Duman testi tarayıcıda çalıştı | ✅ HTTP 200 |
-| 6 | GitHub + Render + Wix + Groq hesapları | ⬜ **sen aç** |
-| 7 | Groq API anahtarı `.env` içinde | ⬜ **sen yapıştır** |
+| 6 | GitHub + Render + Wix + Groq hesapları | ✅ |
+| 7 | Groq API anahtarı `.env` içinde | ✅ |
 
 **Kalan iki madde:**
 1. https://console.groq.com → API Keys → `gsk_...` anahtarını kopyala
