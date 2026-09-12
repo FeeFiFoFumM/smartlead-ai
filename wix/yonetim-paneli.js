@@ -19,7 +19,7 @@ import { fetch } from 'wix-fetch';
 const ETIKET = { cocuk: 'Çocuk', ergen: 'Ergen', yetiskin: 'Yetişkin' };
 
 // Karşılama sayfasıyla AYNI adres olmalı.
-const API = 'https://SIZIN-ADRESINIZ.onrender.com';
+const API = 'https://smartlead-ai-sbly.onrender.com';
 
 $w.onReady(function () {
     $w('#yenileButonu').onClick(leadleriYukle);

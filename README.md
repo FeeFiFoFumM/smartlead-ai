@@ -126,6 +126,14 @@ python run.py                     # http://localhost:5001
 
 ---
 
+## Canlı adresler
+
+| | |
+|---|---|
+| **Backend (Render)** | https://smartlead-ai-sbly.onrender.com |
+| **Sağlık kontrolü** | https://smartlead-ai-sbly.onrender.com/health |
+| **GitHub** | https://github.com/FeeFiFoFumM/smartlead-ai |
+
 ## Yayınlama (Render)
 
 | Ayar | Değer |

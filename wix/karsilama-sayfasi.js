@@ -21,7 +21,7 @@
 import { fetch } from 'wix-fetch';
 
 // Render adresin. SONUNDA / OLMASIN.
-const API = 'https://SIZIN-ADRESINIZ.onrender.com';
+const API = 'https://smartlead-ai-sbly.onrender.com';
 
 // Konuşma geçmişi: [{ role: 'user' | 'assistant', content: '...' }]
 // Sayfada tutulur; sayfa yenilenince sıfırlanır.
